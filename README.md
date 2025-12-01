@@ -33,4 +33,6 @@ Starten Sie das Skript mit dem folgenden Befehl:
 
 ```bash
 node apiFetcher.js
+
+
 Wenn Sie mehr erfahren möchten, besuchen Sie https://reservisten-unterfranken.de/
